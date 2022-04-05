@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602777694 source:c:\users\gül\desktop\c\c örnekler\negatif sayý girene kadar çalýþan program (int dýþý)\main.c
+	<stdio.h>
+	<stdlib.h>
+
