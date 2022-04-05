@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613830849 source:c:\users\egroses\desktop\heckir\c\atýþlar struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

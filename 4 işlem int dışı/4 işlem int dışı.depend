@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602689519 source:c:\users\gül\desktop\c\c örnekler\4 iþlem int dýþý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
