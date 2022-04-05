@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613857798 source:c:\users\egroses\desktop\heckir\c\struct oteli\main.c
+	<stdio.h>
+	<stdlib.h>
+

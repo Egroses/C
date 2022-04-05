@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1615824750 source:c:\users\egroses\desktop\heckir\c\struct maðaza zinciri\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1617378723 source:c:\users\egroses\desktop\heckir\c\struct maðaza zinciri\kasa.c
+	<stdio.h>
+	<stdlib.h>
+	"Magaza.h"
+
+1617381156 c:\users\egroses\desktop\heckir\c\struct maðaza zinciri\magaza.h
+	<stdio.h>
+	<stdlib.h>
+

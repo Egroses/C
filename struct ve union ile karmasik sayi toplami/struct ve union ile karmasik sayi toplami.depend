@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608686978 source:c:\users\egroses\desktop\heckir\c\struct ve union ile karmasik sayi toplami\main.c
+	<stdio.h>
+	<stdlib.h>
+
