@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1617379229 source:c:\users\egroses\desktop\heckir\c\header oluþturma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BuckyInfo.h"
+
+1617379224 c:\users\egroses\desktop\heckir\c\header oluþturma\buckyinfo.h
+
