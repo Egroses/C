@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1602709883 source:c:\users\gül\desktop\c\c örnekler\Ýnt dýþý üs deðeri\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1602709884 source:c:\users\egroses\desktop\heckir\c\Ýnt dýþý üs deðeri\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1617378310 source:c:\users\egroses\desktop\heckir\c\Ýnt dýþý üs deðeri\us.c
+	<stdio.h>
+	<stdlib.h>
+	"Uskutuphane.h"
+
+1617378310 c:\users\egroses\desktop\heckir\c\Ýnt dýþý üs deðeri\uskutuphane.h
+
+1617378310 source:c:\users\egroses\desktop\heckir\c\Ýnt dýþý üs deðeri\uskutuphane.c
+	<stdio.h>
+	<stdlib.h>
+	"Uskutuphane.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602686194 source:c:\users\gül\desktop\c\c örnekler\iki sayýnýn toplamý int main dýþý\main.c
+	<stdio.h>
+	<stdlib.h>
+

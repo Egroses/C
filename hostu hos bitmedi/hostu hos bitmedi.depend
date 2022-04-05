@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608650984 source:c:\users\egroses\desktop\okel\Ödev\algoritma\hostu hos bitmedi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
