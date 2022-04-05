@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615726508 source:c:\users\egroses\desktop\heckir\c\dinamik bellek ve dosya iþlemleri\main.c
+	<stdio.h>
+	<stdlib.h>
+

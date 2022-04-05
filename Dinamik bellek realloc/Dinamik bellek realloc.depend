@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615712085 source:c:\users\egroses\desktop\heckir\c\dinamik bellek realloc\main.c
+	<stdio.h>
+	<stdlib.h>
+
