@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602791851 source:c:\users\gül\desktop\c\c örnekler\rastgele sayý üretme ve max min bulma(int dýþý)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdlib.h>
+
