@@ -1,0 +1,14 @@
+Mudur Ad-Soyad:Korcan Cinemre
+Mudur Cinsiyet:erkek
+Mudur E-Posta:korcan_cinemre61@gmail.com
+Mudur Sifre:Korcan6161
+Mudur Telefon No:05615616161
+Mudur Aylik Maasi:61000
+
+
+Gorevli Ad-Soyad:Ahmet Kaya
+Gorevli Cinsiyet:erkek
+Gorevli E-Posta:ahmetkaya@gmail.com
+Gorevli Sifre:ahmet1818
+Gorevli Telefon No:05451234455
+Gorevli Aylik Maasi:2400

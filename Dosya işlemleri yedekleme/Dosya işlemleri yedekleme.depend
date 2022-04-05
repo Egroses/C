@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615664145 source:c:\users\egroses\desktop\heckir\c\dosya iþlemleri yedekleme\main.c
+	<stdio.h>
+	<stdlib.h>
+

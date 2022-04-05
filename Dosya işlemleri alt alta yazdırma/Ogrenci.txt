@@ -1,0 +1,8 @@
+Ogrenci No :1 | isim :cem
+Ogrenci No :2 | isim :mehmet
+Ogrenci No :3 | isim :ayse
+Ogrenci No :4 | isim :fatma
+Ogrenci No :5 | isim :huseyin
+Ogrenci No :6 | isim :ibo
+Ogrenci No :7 | isim :nilufer
+Ogrenci No :8 | isim :danla

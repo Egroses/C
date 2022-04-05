@@ -1,0 +1,12 @@
+memet	60	90	100	90
+arda	50	40	60	54
+memet	23	43	52	12
+levi	21	42	76	58
+huseyin	21	44	62	50
+ogrenci ad:zçpzçp	2.vize not :54	2.vize not :27	final not :89	ort :69
+ogrenci ad:blal	2.vize not :93	2.vize not :47	final not :100	ort :88
+ogrenci ad:ibo 	 1.vize not :70 	 2.vize not :59 	 final not :95 	 ort :82
+ogrenci ad:ahmet 	 1.vize not :69 	2.vize not :73 	final not :94 	 ort :84
+ogrenci ad:sefa 	1.vize not :65 	2.vize not :54 	final not :87 	 ort :76
+ogrenci ad:tarçk	1.vize not :23 	2.vize not :76 	final not :54 	 ort :52
+ogrenci ad:taha	| 1.vize not :76 	| 2.vize not :56 	|final not :98 	| ort :85
