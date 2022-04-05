@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1616933890 source:c:\users\egroses\desktop\heckir\c\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+

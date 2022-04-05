@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614447478 source:c:\users\egroses\desktop\heckir\c\recursive fibnocci\main.c
+	<stdio.h>
+	<stdlib.h>
+

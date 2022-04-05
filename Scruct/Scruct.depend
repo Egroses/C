@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608682312 source:c:\users\egroses\desktop\heckir\c\scruct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

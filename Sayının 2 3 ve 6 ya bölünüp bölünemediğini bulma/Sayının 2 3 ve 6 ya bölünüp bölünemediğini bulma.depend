@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604267400 source:c:\users\gül\desktop\c\c örnekler\sayýnýn 2 3 ve 6 ya bölünüp bölünemediðini bulma\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603189487 source:c:\users\gül\desktop\c\c örnekler\rastgele sayýlarýn içerisinden istediðimiz terimi silme\main.c
+	<stdio.h>
+	<stdlib.h>
+
